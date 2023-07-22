@@ -1,3 +1,2 @@
 # ARM-lpc17xx
-The code provided herein has been developed utilizing CMSIS libraries. 
-You need to create a new project and include the necessary libraries. I have just shared the main file.
+The code presented herein has been developed utilizing CMSIS libraries. To proceed, create individual projects, incorporating the requisite libraries. I have shared the main file for your convenience.
