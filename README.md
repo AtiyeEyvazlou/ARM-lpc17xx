@@ -34,6 +34,6 @@ Each file here represents a standalone "main" file for a specific project. To pr
 - **ADC.C**: Initializes and manages the ADC for analog input.
 - **GPIO.C**: Manages digital I/O operations.
 - **LCD.c**: Controls an LCD display.
-- **RTOS.c**: Provides a basic RTOS configuration.
+- **RTOS.c**:This project includes an RTOS configuration that manages three concurrent tasks: reading voltage via ADC, driving a motor using PWM based on the measured voltage, and displaying the motor speed on an LCD. The tasks are prioritized to ensure optimal performance, with ADC reading set as the highest priority, LCD display as the second, and PWM control as the third.
 - **i2c-master.c / i2c-slave.c**: Master and slave I2C communication examples.
 - **timer.c**: Manages timer setup and interrupts.
