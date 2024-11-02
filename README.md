@@ -2,20 +2,6 @@
 A repository for ARM Cortex-M3 development using the LPC17xx series microcontrollers. This collection includes main files for various embedded functionalities, designed to be used with CMSIS libraries. Each file is an independent project.
 ![lpc1768](http://mbed.org/media/uploads/synvox/lpc1768_mbed_pinout.gif)
 
-## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [File Overview](#file-overview)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## About
-
 The **ARM-lpc17xx** repository provides main files for core ARM microcontroller functionalities. These files can be adapted into individual projects, each showcasing specific tasks like GPIO control, ADC conversion, and RTOS setup. Code here is designed to be compiled and run with CMSIS libraries for effective ARM Cortex-M3 development.
 
 ## Features
