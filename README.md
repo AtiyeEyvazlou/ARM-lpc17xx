@@ -1,9 +1,6 @@
 # ARM-lpc17xx
 A repository for ARM Cortex-M3 development using the LPC17xx series microcontrollers. This collection includes main files for various embedded functionalities, designed to be used with CMSIS libraries. Each file is an independent project.
 ![lpc1768](http://mbed.org/media/uploads/synvox/lpc1768_mbed_pinout.gif)
-# ARM-lpc17xx
-
-A repository for ARM Cortex-M3 development using the LPC17xx series microcontrollers. This collection includes main files for various embedded functionalities, designed to be used with CMSIS libraries. Each file can be set up as an independent project.
 
 ## Table of Contents
 - [About](#about)
